@@ -40,3 +40,7 @@
 .blank{
   color: rgb(32, 8, 246);
 }
+.navbar{
+  position: sticky;
+  top: 0;
+}
